@@ -76,7 +76,9 @@ Navigate to the desired folder and explore the PDFs 📄 and code files 💻.
 Follow the instructions in the PDFs to implement the Docker examples.
 
 ✅ Prerequisites
-Docker installed on your system: Docker Installation Guide
-Basic understanding of containerization concepts.
+1. Docker installed on your system: Docker Installation Guide
+2. Basic understanding of containerization concepts.
+
 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the repository. ✨
+
+^_~ Contributions are welcome! Feel free to open issues or submit pull requests to improve the repository. ✨
